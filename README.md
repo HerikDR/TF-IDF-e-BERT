@@ -1,6 +1,6 @@
 # Universidade Estadual de Londrina
 
-**Curso:** Ciência de Dados e Inteligenda Artificial
+**Curso:** Ciência de Dados e Inteligência Artificial
 
 **Disciplina:** 2COP019 - Aprendizado de Máquina Supervisionado
 
