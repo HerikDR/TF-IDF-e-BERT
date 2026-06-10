@@ -10,7 +10,7 @@
 
 ---
 
-## Classificac̦ão de Sentimentos e Ańalise Comparativa: TF-IDF vs BERT
+## Classificac̦ão de Sentimentos e Análise Comparativa: TF-IDF vs BERT
 
 ---
 
