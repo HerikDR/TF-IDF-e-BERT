@@ -115,7 +115,7 @@ Este trabalho discute o uso da métrica TF-IDF (Term Frequency-Inverse Document 
 
 ```
 projeto-aprendizado-maquina/
-├── triagem_avaliacoes.ipynb    # Notebook principal da implementac̦ãı¯o
+├── triagem_avaliacoes.ipynb    # Notebook principal da implementac̦ão
 ├── requirements.txt            # Dependencias do Python
 ├── dataset/                    # Pasta contendo os arquivos JSON
 │   ├── reviews_mercadolivre_com_br_1.json
